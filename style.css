@@ -1,0 +1,37 @@
+body {
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.container {
+    background-color: rgba(95, 158, 160, 0.875);
+    height: 450px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+input {
+    width: 293px;
+    height: 50px;
+}
+
+.display {
+    height: 70px;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(165, 112, 42);
+    font-size: larger;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+button {
+    margin: 20px 40px;
+    padding: 20px;
+    width: 200px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.5);
+}
